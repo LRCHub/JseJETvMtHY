@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BAILE INoLVIDABLE",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-25T19:34:46.757845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/01_BAILE_INoLVIDABLE_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/02_BAILE_INoLVIDABLE_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/03_BAILE_INoLVIDABLE_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/04_BAILE_INoLVIDABLE_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BAD BUNNY - BAILE INoLVIDABLE (Visualizer) | DeBÍ TiRAR MáS FOToS",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/05_BAD_BUNNY_-_BAILE_INoLVIDABLE_(Visualizer)___DeBÍ_TiRAR_MáS_FOToS_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BAD BUNNY - BAILE INoLVIDABLE (Visualizer) | DeBÍ TiRAR MáS FOToS",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/06_BAD_BUNNY_-_BAILE_INoLVIDABLE_(Visualizer)___DeBÍ_TiRAR_MáS_FOToS_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE [Explicit]",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/07_BAILE_INoLVIDABLE_[Explicit]_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/08_BAILE_INoLVIDABLE_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny • 118M plays",
+      "has_synced": true,
+      "path": "select/09_BAILE_INoLVIDABLE_Bad_Bunny_•_118M_plays.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Bunny - BAILE INoLVIDABLE (2025)",
+      "artist": "NAKDtv",
+      "has_synced": true,
+      "path": "select/10_Bad_Bunny_-_BAILE_INoLVIDABLE_(2025)_NAKDtv.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny, 162M plays",
+      "has_synced": true,
+      "path": "select/11_BAILE_INoLVIDABLE_Bad_Bunny,_162M_plays.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE (Paused)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/12_BAILE_INoLVIDABLE_(Paused)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny, 143M plays",
+      "has_synced": true,
+      "path": "select/13_BAILE_INoLVIDABLE_Bad_Bunny,_143M_plays.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny, 194M plays",
+      "has_synced": true,
+      "path": "select/14_BAILE_INoLVIDABLE_Bad_Bunny,_194M_plays.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny, 220M plays",
+      "has_synced": true,
+      "path": "select/15_BAILE_INoLVIDABLE_Bad_Bunny,_220M_plays.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny • 222M plays",
+      "has_synced": true,
+      "path": "select/16_BAILE_INoLVIDABLE_Bad_Bunny_•_222M_plays.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny, 245M plays",
+      "has_synced": true,
+      "path": "select/17_BAILE_INoLVIDABLE_Bad_Bunny,_245M_plays.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny, 205M plays",
+      "has_synced": true,
+      "path": "select/18_BAILE_INoLVIDABLE_Bad_Bunny,_205M_plays.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_BAILE_INoLVIDABLE_Bad_Bunny.txt"
+    }
+  ]
+}
